@@ -3,15 +3,7 @@
 Agricultural performance shifts between the Kharif, Rabi and Zaid seasons, but raw farm data
 does not show by how much, why, or where it hurts most. This project analyses 4,000 farm records
 (28 variables · 8 states · 8 crops · 4 irrigation methods · 3 seasons) to quantify those
-differences and turn them into recommendations.
-
-## Repository
-| File | Description |
-|---|---|
-| `seasonal_agriculture_analysis.ipynb` | Full documented analysis — cleaning, feature engineering, statistical testing, visualisation, conclusions |
-| `seasonal_agriculture_performance_dataset.csv` | Raw dataset |
-| `charts/` | The seven generated visualisations |
-| `VOIS_Major_Project_Seasonal_Agriculture_Analysis.pptx` | Submission deck |
+differences and turn them into recommendations.gi
 
 ## Method
 1. Data understanding and internal consistency checks (Production = Yield × Area, etc.)
